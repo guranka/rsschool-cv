@@ -1,0 +1,42 @@
+# Anna Huryna 
+
+> ### Research Assistant 
+
+***
+## *Contact information* 
++ email: gyranka@gmail.com/
++ Github: https://github.com/guranka
+***
+## *About myself* 
+
+Currently, I'm a research assistant in a non-profit organization. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. My goal is to improve my programming skills, gain experience and make the most out of my time during work.
+
+***
+## *Education* 
+ [Belarusian National Technical University](https://en.bntu.by/), Minsk, Belarus\
+ [University of South Bohemia](https://www.jcu.cz/en/), Ceske Budejovice, Czech Republic
+***
+## *Skills and Proficeincy* 
+- Python
+- SQL
+- R
+- SPSS
+- Adobe Photoshop, Illustrator, Lightroom
+- CorelDraw
+***
+## *Code example* 
+
+```python
+def print_digit_sum(num):
+    total = 0
+    for i in (n):
+        total += int(i)
+    print(total)
+```
+***
+## *Languages* 
+    Belarussian (native)
+    Russian (native)
+    English (advanced)
+    Czech (advanced)
+    Spanish (elementary)
