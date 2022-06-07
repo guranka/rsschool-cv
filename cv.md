@@ -16,3 +16,27 @@ Currently, I'm a research assistant in a non-profit organization. I am an enthus
  [Belarusian National Technical University](https://en.bntu.by/), Minsk, Belarus\
  [University of South Bohemia](https://www.jcu.cz/en/), Ceske Budejovice, Czech Republic
 ***
+## *Skills and Proficeincy* 
+- Python
+- SQL
+- R
+- SPSS
+- Adobe Photoshop, Illustrator, Lightroom
+- CorelDraw
+***
+## *Code example* 
+
+```python
+def print_digit_sum(num):
+    total = 0
+    for i in (n):
+        total += int(i)
+    print(total)
+```
+***
+## *Languages* 
+    Belarussian (native)
+    Russian (native)
+    English (advanced)
+    Czech (advanced)
+    Spanish (elementary)
