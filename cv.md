@@ -4,3 +4,6 @@
 
 ***
 ## *Contact information* 
++ email: gyranka@gmail.com/
++ Github: https://github.com/guranka
+***
